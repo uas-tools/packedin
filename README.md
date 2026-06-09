@@ -1,4 +1,5 @@
 packedin/
+```
 ├── public/
 │   └── index.html
 ├── src/
@@ -6,3 +7,4 @@ packedin/
 │   └── index.js
 ├── package.json
 └── README.md
+```
